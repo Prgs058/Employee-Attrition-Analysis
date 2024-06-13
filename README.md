@@ -3,8 +3,9 @@ Problem Statement:
 
 XYZ company which was established a few years back is facing around a 15% attrition rate for a couple of years. And it's majorly affecting the company in many aspects. In order to understand why employees are leaving the company and reduce the attrition rate XYZ company has approached an HR analytics consultancy for analyzing the data they have. I am playing the HR analyst role in this project and performed data analysis using python to extract usefull insights which can help the organization in making data-driven decisions.
 
-**Employee attrition analysis** : is the process of examining employee data to understand why employees leave an organization
-##Data sources : Attrition data.csv
+**Employee attrition analysis** : is the process of examining employee data to understand why employees leave an organization.
+
+**Data sources :** Attrition data.csv
 
 **Steps of data analysis:**
 
